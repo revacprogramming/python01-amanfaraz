@@ -9,6 +9,6 @@ elif grade>=0.7:
     print("C")
 elif grade>=0.6:
     print("D")
-elif grade<0.6:
-    print("F")
+else:
+  print("F")
     
